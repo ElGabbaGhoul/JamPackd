@@ -1,0 +1,2 @@
+# JamPackd
+Spotify Playlist Generator
